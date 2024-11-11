@@ -2,7 +2,8 @@
 14 y/o Full Stack Developer
 
 # Projects
-Acceleration V1
+Acceleration V1 <p align="center"><img align="center" src="https://github.com/xdevnightless/Acceleration-dark.png#gh-dark-mode-only"/></p>
+
 
 
 
