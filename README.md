@@ -6,7 +6,7 @@ Acceleration V1
 
 # Languages/Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react.replit.vscode.github)](https://skillicons.dev)
 
 
 
