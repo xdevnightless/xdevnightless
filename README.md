@@ -1,4 +1,4 @@
-Hello 👋
+# Hello 👋
 14 y/o Full Stack Developer
 
 # Projects
