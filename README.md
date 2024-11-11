@@ -1,5 +1,6 @@
 # Hello 👋
 14 y/o Full Stack Developer
+Owner of Acceleration
 
 # Projects
 Acceleration V1 
