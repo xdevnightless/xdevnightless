@@ -1,7 +1,7 @@
 Hello 👋
 14 y/o Full Stack Developer
 
-Projects
+# Projects
 Acceleration V1
 Flame Network
 Falcon
@@ -9,9 +9,9 @@ Pulsar
 Apex Network
 
 
-Languages/Tools
+# Languages/Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ejs,scss,react)](https://skillicons.dev)
 
 
 
