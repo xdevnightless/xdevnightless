@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @xdevnightless
-- 👀 I’m interested in Coding and Music
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Making websites
-- 📫 How to reach me xxnightless discord
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello 👋
+14 y/o Full Stack Developer
+
+Projects
+Acceleration V1
+Flame Network
+Falcon
+Pulsar
+Apex Network
+
+
+Languages/Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 
 <!---
 xdevnightless/xdevnightless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
