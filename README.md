@@ -9,6 +9,8 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
+<img src="https://github-readme-stats-one-chi-66.vercel.app/api?username=xxnightless&theme=radical&hide_rank=false&hide=prs,issues&line_height=24&show_icons=true&icon_color=ff5733" alt="xxnightless" />
+
 
 
 
