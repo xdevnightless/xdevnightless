@@ -9,7 +9,7 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightless&theme=radical)] 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdevnightless&theme=radical&hide=js,html,css)](https://github.com/xdevnightless/Acceleration)
 
 
 
