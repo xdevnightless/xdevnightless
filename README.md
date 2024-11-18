@@ -11,11 +11,7 @@ Acceleration V1
 
 ### My GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nightless&show_icons=true&theme=radical)
 
-![Contributions](https://img.shields.io/badge/Contributions-743-green?style=flat-square) 
-![Commits](https://img.shields.io/badge/Commits-427-blue?style=flat-square)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-1-orange?style=flat-square)
 
 
 
