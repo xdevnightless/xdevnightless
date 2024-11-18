@@ -15,13 +15,6 @@ Acceleration V1
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdevnightless&layout=compact&title_color=red&bg_color=00000000&icon_color=red&hide_border=true&text_color=FF00000&card_width=350)
 
 
-
-![CSS](https://img.shields.io/badge/CSS-78%25-blue)
-![HTML](https://img.shields.io/badge/HTML-22%25-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-6%25-yellow)
-![SCSS](https://img.shields.io/badge/SCSS-4%25-purple)
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="mailto:shadowiscool@zombi3slayz.com
