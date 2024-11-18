@@ -18,7 +18,9 @@ Acceleration V1
  <a href="mailto:shadowiscool@zombi3slayz.com
 " target="blank"><img align="center" src="https://media.xordas.me/movie-river/email_icon.svg" alt="shadowiscool@zombi3slayz.com
 " height="30" width="40" /></a>
-<a href="https://discord.com/users/754481848268357743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".xordas" height="30" width="40" /></a>
+<a href="https://discord.com/users/123456789012345678" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".xxnightless" height="30" width="40" />
+</a>
 <a href="https://www.youtube.com/@shadowycc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xordas" height="30" width="40" /></a>
 </p><br>
 
