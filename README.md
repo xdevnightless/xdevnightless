@@ -9,7 +9,6 @@ Acceleration V1
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&exclude_repo=repo1,repo2&langs_count=6&count_private=true)
 
 
 
