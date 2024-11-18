@@ -9,7 +9,7 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
-<p href="https://github.com/shuttleai" align="left">
+<p href="https://github.com/xdevnightless/Acceleration" align="left">
     <img alt="Nightless's Stats" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=xdevnightless&include_orgs=true&show_icons=true&hide_border=true&theme=tokyonight&locale=en">
 </p>
 
