@@ -10,6 +10,9 @@ Acceleration V1
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=vishaljattan&theme=radical)](https://github.com/xdevnightless/Acceleration)
+
+
 
 
 
