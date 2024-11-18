@@ -1,6 +1,6 @@
 
 ![Header](https://raw.githubusercontent.com/mdoryammilwalrus/mdoryammilwalrus/main/header.png)
-14 y/o Full Stack Developer
+    14 y/o Full Stack Developer
 Owner of Acceleration
 
 # Projects
