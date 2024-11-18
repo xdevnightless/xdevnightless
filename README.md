@@ -9,39 +9,6 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
-<p href="https://github.com/xdevnightless/Acceleration" align="left">
-const axios = require('axios');
-const sharp = require('sharp');
-
-// Fetch the image from the GitHub stats API
-const statsImageURL = 'https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=xdevnightless&include_orgs=true&show_icons=true&hide_border=true&theme=tokyonight&locale=en';
-
-// Download the image
-axios({
-  url: statsImageURL,
-  responseType: 'arraybuffer',
-})
-  .then((response) => {
-    const buffer = Buffer.from(response.data, 'binary');
-    
-    // Use sharp to add text overlay
-    sharp(buffer)
-      .composite([
-        {
-          input: Buffer.from('<svg><text x="10" y="20" font-size="20" fill="white">776 contributions</text></svg>'),
-          top: 10,
-          left: 10,
-        },
-      ])
-      .toFile('output-stats.png', (err, info) => {
-        if (err) {
-          console.error(err);
-        } else {
-          console.log('Image with overlay created:', info);
-        }
-      });
-  })
-  .catch((err) => console.error(err));
 
 
 
