@@ -12,7 +12,6 @@ Acceleration V1
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdevnightless&show_icons=true&title_color=red&bg_color=00000000&icon_color=red&hide_border=true&text_color=FF0000&card_width=350)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdevnightless&layout=compact&title_color=red&bg_color=00000000&icon_color=red&hide_border=true&text_color=FF00000&card_width=350)
 
 
