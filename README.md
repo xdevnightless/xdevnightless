@@ -16,6 +16,10 @@ Acceleration V1
 
 
 
+![CSS](https://img.shields.io/badge/CSS-78%25-blue)
+![HTML](https://img.shields.io/badge/HTML-22%25-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-6%25-yellow)
+![SCSS](https://img.shields.io/badge/SCSS-4%25-purple)
 
 
 <h3 align="center">Connect with me:</h3>
