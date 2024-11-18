@@ -9,7 +9,7 @@ Acceleration V1
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xordas&show_icons=true&theme=radical)
 
 
 
