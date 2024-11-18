@@ -10,6 +10,11 @@ Acceleration V1
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
 
 
+[![Contact](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
+xxnightless
+
+
+
 
 
 
