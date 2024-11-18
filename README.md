@@ -9,6 +9,8 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
+![Custom Graph](https://raw.githubusercontent.com/Nightless/repo-name/main/graph.png)
+
 
 
 
