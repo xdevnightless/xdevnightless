@@ -11,7 +11,14 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdevnightless&hide=css,html,ejs,js,&langs_count=4&theme=tokyonight)
+<div style="width: 300px; font-family: Arial, sans-serif;">
+  <h3 style="text-align: center;">Top Languages</h3>
+  <div style="background: #f1f1f1; padding: 5px; border-radius: 5px;">
+    <div style="width: 41%; background: #563d7c; color: white; padding: 5px; border-radius: 5px 5px 0 0;">CSS - 41%</div>
+    <div style="width: 37%; background: #e34c26; color: white; padding: 5px; border-radius: 0;">HTML - 37%</div>
+    <div style="width: 22%; background: #f1e05a; color: black; padding: 5px; border-radius: 0 0 5px 5px;">JS - 22%</div>
+  </div>
+</div>
 
 
 <h3 align="center">Connect with me:</h3>
