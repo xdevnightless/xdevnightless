@@ -11,7 +11,7 @@ Acceleration V1
 # Languages/Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,scss,react,replit,vscode,github,discord,bots,gmail,instagram,java)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdevnightless&hide=python,ruby,java,c,cpp&langs_count=4&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdevnightless&layout=compact&theme=tokyonight&hide=html,css&langs_count=6&bg_color=1a1b27&title_color=ffffff&text_color=00ff00)
 
 
 
