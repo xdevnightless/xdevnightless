@@ -7,6 +7,13 @@
 # 🚀 Projects
 
 - **Acceleration V1**
+- - **Pulsar V1**
+- **Falcon V1**
+- **Apex V1**
+- **Marine V1**
+- - **Galaxy V4**
+
+
 
 ---
 
