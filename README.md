@@ -35,10 +35,11 @@ Acceleration V1
 
 | **Skill**       | **Progress**                                   |
 |------------------|-----------------------------------------------|
-| HTML & CSS       | ![90%](https://progress-bar.dev/90/)          |
-| JavaScript       | ![85%](https://progress-bar.dev/85/)          |
-| Node.js          | ![75%](https://progress-bar.dev/75/)          |
-| Discord.js       | ![80%](https://progress-bar.dev/80/)          |
+| HTML & CSS       | ![HTML & CSS Progress](https://progress-bar.dev/90) |
+| JavaScript       | ![JavaScript Progress](https://progress-bar.dev/85) |
+| Node.js          | ![Node.js Progress](https://progress-bar.dev/75) |
+| Discord.js       | ![Discord.js Progress](https://progress-bar.dev/80) |
+
 
 
 
