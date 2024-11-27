@@ -16,16 +16,6 @@
 
 ---
 
-# 📊 Progress Overview
-
-| **Skill**       | **Progress**                                   |
-|------------------|-----------------------------------------------|
-| HTML & CSS       | ![HTML & CSS Progress](https://progress-bar.dev/90) |
-| JavaScript       | ![JavaScript Progress](https://progress-bar.dev/85) |
-| Node.js          | ![Node.js Progress](https://progress-bar.dev/75) |
-| Discord.js       | ![Discord.js Progress](https://progress-bar.dev/80) |
-
----
 
 # 📈 GitHub Stats
 
