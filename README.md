@@ -7,6 +7,9 @@
 # 🚀 Projects
 
 - **Acceleration V1**
+ - **DM Network**
+  - **Shadow**
+  - **InterGalactic**
 - **Pulsar V1**
 - **Falcon V1**
 - **Apex V1**
