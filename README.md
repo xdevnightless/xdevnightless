@@ -13,7 +13,7 @@
 - **Pulsar V1**
 - **Falcon V1**
 - **Apex V1**
-- **Marine V1**
+- **Marine V2**
 -  **Galaxy V4**
 
 
